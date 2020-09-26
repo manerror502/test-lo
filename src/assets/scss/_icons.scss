@@ -1,0 +1,602 @@
+@font-face {
+  font-family: 'lo-icons-font';
+  src: url("assets/fonts/icons/lo-icons-font.eot?9f6une");
+  src: url("assets/fonts/icons/lo-icons-font.eot?9f6une#iefix") format("embedded-opentype"), url("assets/fonts/icons/lo-icons-font.ttf?9f6une") format("truetype"), url("assets/fonts/icons/lo-icons-font.woff?9f6une") format("woff"), url("assets/fonts/icons/lo-icons-font.svg?9f6une#lo-icons-font") format("svg");
+  font-weight: normal;
+  font-style: normal; }
+
+[class^="lo_"],
+[class*=" lo_"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'lo-icons-font' !important;
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale; }
+
+.lo_ic_favorite_select:before {
+  content: "";
+  color: #f3212b; }
+
+.lo_stub__currency-exchange:before {
+  content: ""; }
+
+.lo_stub__invite:before {
+  content: ""; }
+
+.lo_stub__cards:before {
+  content: ""; }
+
+.lo_stub__code:before {
+  content: ""; }
+
+.lo_stub__e-money:before {
+  content: ""; }
+
+.lo_stub__smartphone:before {
+  content: ""; }
+
+.lo_stub__terminal:before {
+  content: ""; }
+
+.lo_ic_gift:before {
+  content: ""; }
+
+.lo_ic_store:before {
+  content: ""; }
+
+.lo_ic_cart:before {
+  content: ""; }
+
+.lo_ic_unpin:before {
+  content: ""; }
+
+.lo_ic_emoji_activity:before {
+  content: ""; }
+
+.lo_ic_emoji_diversity:before {
+  content: ""; }
+
+.lo_ic_emoji_flags:before {
+  content: ""; }
+
+.lo_ic_emoji_food:before {
+  content: ""; }
+
+.lo_ic_emoji_nature:before {
+  content: ""; }
+
+.lo_ic_emoji_objects:before {
+  content: ""; }
+
+.lo_ic_emoji_people:before {
+  content: ""; }
+
+.lo_ic_emoji_recent:before {
+  content: ""; }
+
+.lo_ic_emoji_symbols:before {
+  content: ""; }
+
+.lo_ic_emoji_travel:before {
+  content: ""; }
+
+.lo_ic_alert:before {
+  content: ""; }
+
+.lo_ic_mp_exit:before {
+  content: ""; }
+
+.lo_ic_mp_purse:before {
+  content: ""; }
+
+.lo_ic_mp_setting:before {
+  content: ""; }
+
+.lo_ic_mp_support:before {
+  content: ""; }
+
+.lo_ic_double_check:before {
+  content: ""; }
+
+.lo_ic_postponed:before {
+  content: ""; }
+
+.lo_ic_pin:before {
+  content: ""; }
+
+.lo_ic_lb_text:before {
+  content: ""; }
+
+.lo_ic_live_text:before {
+  content: ""; }
+
+.lo_ic_minimize_window:before {
+  content: ""; }
+
+.lo_ic_lb:before {
+  content: ""; }
+
+.lo_ic_live_circle:before {
+  content: ""; }
+
+.lo_ic_lb_circle:before {
+  content: ""; }
+
+.lo_ic_invite:before {
+  content: ""; }
+
+.lo_ic_approval:before {
+  content: "";
+  color: #2196f3; }
+
+.lo_ic_receipt:before {
+  content: ""; }
+
+.lo_ic_mobile:before {
+  content: ""; }
+
+.lo_ic_money:before {
+  content: ""; }
+
+.lo_ic_payment-terminal:before {
+  content: ""; }
+
+.lo_ic_question:before {
+  content: ""; }
+
+.lo_ic_chevron_right_gallery:before {
+  content: ""; }
+
+.lo_ic_favorite_gallery:before {
+  content: ""; }
+
+.lo_ic_chevron_left_gallery:before {
+  content: ""; }
+
+.lo_ic_not_view:before {
+  content: ""; }
+
+.lo_ic_file:before {
+  content: ""; }
+
+.lo_ic_music:before {
+  content: ""; }
+
+.lo_ic_photo:before {
+  content: ""; }
+
+.lo_ic_video:before {
+  content: ""; }
+
+.lo_ic_people:before {
+  content: ""; }
+
+.lo_ic_check:before {
+  content: ""; }
+
+.lo_ic_lives:before {
+  content: ""; }
+
+.lo_ic_location_city:before {
+  content: ""; }
+
+.lo_ic_mic:before {
+  content: ""; }
+
+.lo_ic_mic_off:before {
+  content: ""; }
+
+.lo_ic_phone_down:before {
+  content: ""; }
+
+.lo_ic_phone_up:before {
+  content: ""; }
+
+.lo_ic_ruble:before {
+  content: ""; }
+
+.lo_ic_videocam:before {
+  content: ""; }
+
+.lo_ic_videocam_off:before {
+  content: ""; }
+
+.lo_ic_wifi:before {
+  content: ""; }
+
+.lo_square_checkbox_off:before {
+  content: ""; }
+
+.lo_square_checkbox_on:before {
+  content: ""; }
+
+.lo_ic_emojii:before {
+  content: ""; }
+
+.lo_ic_smartphone:before {
+  content: ""; }
+
+.lo_ic_unlike:before {
+  content: ""; }
+
+.lo_ic_volumeOff:before {
+  content: ""; }
+
+.lo_radio_off:before {
+  content: "";
+  color: #6d6a67; }
+
+.lo_radio_on:before {
+  content: "";
+  color: #2196f3; }
+
+.lo_checkbox_off:before {
+  content: "";
+  color: #6d6a67; }
+
+.lo_checkbox_on:before {
+  content: "";
+  color: #2196f3; }
+
+.lo_ic_search:before {
+  content: ""; }
+
+.lo_ic_add:before {
+  content: ""; }
+
+.lo_ic_close:before {
+  content: ""; }
+
+.lo_ic_apps:before {
+  content: ""; }
+
+.lo_ic_menu:before {
+  content: ""; }
+
+.lo_ic_arrow_back:before {
+  content: ""; }
+
+.lo_ic_arrow_forward:before {
+  content: ""; }
+
+.lo_ic_arrow_drop_left:before {
+  content: ""; }
+
+.lo_ic_arrow_drop_right:before {
+  content: ""; }
+
+.lo_ic_arrow_drop_down:before {
+  content: ""; }
+
+.lo_ic_arrow_drop_up:before {
+  content: ""; }
+
+.lo_ic_attach_horiz:before {
+  content: ""; }
+
+.lo_ic_attach_vert:before {
+  content: ""; }
+
+.lo_ic_bookmark:before {
+  content: ""; }
+
+.lo_ic_note:before {
+  content: ""; }
+
+.lo_ic_drive_file:before {
+  content: ""; }
+
+.lo_ic_chevron_left:before {
+  content: ""; }
+
+.lo_ic_chevron_right:before {
+  content: ""; }
+
+.lo_ic_expand_less:before {
+  content: ""; }
+
+.lo_ic_expand_more:before {
+  content: ""; }
+
+.lo_ic_contentCopy:before {
+  content: ""; }
+
+.lo_ic_contentCut:before {
+  content: ""; }
+
+.lo_ic_contentPaste:before {
+  content: ""; }
+
+.lo_ic_delete:before {
+  content: ""; }
+
+.lo_ic_sent:before {
+  content: ""; }
+
+.lo_ic_edit_miniature:before {
+  content: ""; }
+
+.lo_ic_edit:before {
+  content: ""; }
+
+.lo_ic_comment:before {
+  content: ""; }
+
+.lo_ic_favorite:before {
+  content: ""; }
+
+.lo_ic_reply:before {
+  content: ""; }
+
+.lo_ic_share_circle:before {
+  content: ""; }
+
+.lo_ic_share:before {
+  content: ""; }
+
+.lo_ic_forward:before {
+  content: ""; }
+
+.lo_ic_fullscreen:before {
+  content: ""; }
+
+.lo_ic_fullscreen_exit:before {
+  content: ""; }
+
+.lo_ic_crop_miniature:before {
+  content: ""; }
+
+.lo_ic_crop_landscape:before {
+  content: ""; }
+
+.lo_ic_main_bell:before {
+  content: ""; }
+
+.lo_ic_main_home:before {
+  content: ""; }
+
+.lo_ic_main_dialog:before {
+  content: ""; }
+
+.lo_ic_main_friend:before {
+  content: ""; }
+
+.lo_ic_main_community:before {
+  content: ""; }
+
+.lo_ic_main_photo:before {
+  content: ""; }
+
+.lo_ic_main_music:before {
+  content: ""; }
+
+.lo_ic_main_tv:before {
+  content: ""; }
+
+.lo_ic_main_place:before {
+  content: ""; }
+
+.lo_ic_main_event:before {
+  content: ""; }
+
+.lo_ic_main_search:before {
+  content: ""; }
+
+.lo_ic_main_close:before {
+  content: ""; }
+
+.lo_ic_more_horiz:before {
+  content: ""; }
+
+.lo_ic_more_vert:before {
+  content: ""; }
+
+.lo_ic_play_circle_outline:before {
+  content: ""; }
+
+.lo_ic_pause_circle_outline:before {
+  content: ""; }
+
+.lo_ic_refresh:before {
+  content: ""; }
+
+.lo_ic_play:before {
+  content: ""; }
+
+.lo_ic_pause:before {
+  content: ""; }
+
+.lo_ic_skip_prev:before {
+  content: ""; }
+
+.lo_ic_skip_next:before {
+  content: ""; }
+
+.lo_ic_shuffle:before {
+  content: ""; }
+
+.lo_ic_loop:before {
+  content: ""; }
+
+.lo_ic_playlist_add:before {
+  content: ""; }
+
+.lo_ic_playlist_add_check:before {
+  content: ""; }
+
+.lo_ic_star:before {
+  content: ""; }
+
+.lo_ic_star_border:before {
+  content: ""; }
+
+.lo_ic_statistics:before {
+  content: ""; }
+
+.lo_ic_time:before {
+  content: ""; }
+
+.lo_ic_info_outline:before {
+  content: ""; }
+
+.lo_ic_volumeUp:before {
+  content: ""; }
+
+.lo_is_window_fullscreen:before {
+  content: ""; }
+
+.lo_ic_shopping_card:before {
+  content: ""; }
+
+.lo_ic_setting:before {
+  content: ""; }
+
+.lo_ic_main_bell_hover:before {
+  content: ""; }
+
+.lo_ic_main_home_hover:before {
+  content: ""; }
+
+.lo_ic_main_dialog_hover:before {
+  content: ""; }
+
+.lo_ic_main_friend_hover:before {
+  content: ""; }
+
+.lo_ic_main_community_hover:before {
+  content: ""; }
+
+.lo_ic_main_photo_hover:before {
+  content: ""; }
+
+.lo_ic_main_music_hover:before {
+  content: ""; }
+
+.lo_ic_main_tv_hover:before {
+  content: ""; }
+
+.lo_ic_main_place_hover:before {
+  content: ""; }
+
+.lo_ic_main_event_hover:before {
+  content: ""; }
+
+.lo_ic_apple_os:before {
+  content: ""; }
+
+.lo_ic_android_os:before {
+  content: ""; }
+
+.lo_ic_account_box:before {
+  content: ""; }
+
+.lo_ic_calendar:before {
+  content: ""; }
+
+.lo_ic_calendar_mini:before {
+  content: ""; }
+
+.lo_ic_flag:before {
+  content: ""; }
+
+.lo_ic_lock:before {
+  content: ""; }
+
+.lo_ic_warning:before {
+  content: ""; }
+
+.lo_ic_discussion:before {
+  content: ""; }
+
+.lo_ic_preview:before {
+  content: ""; }
+
+.lo_ic_format_bold:before {
+  content: ""; }
+
+.lo_ic_format_italic:before {
+  content: ""; }
+
+.lo_ic_format_underlined:before {
+  content: ""; }
+
+.lo_ic_format_clear:before {
+  content: ""; }
+
+.lo_ic_format_size:before {
+  content: ""; }
+
+.lo_ic_format_align_left:before {
+  content: ""; }
+
+.lo_ic_format_align_center:before {
+  content: ""; }
+
+.lo_ic_format_align_right:before {
+  content: ""; }
+
+.lo_ic_format_align_justify:before {
+  content: ""; }
+
+.lo_ic_format_list_bulleted:before {
+  content: ""; }
+
+.lo_ic_format_list_numbered:before {
+  content: ""; }
+
+.lo_ic_insert_link:before {
+  content: ""; }
+
+.lo_ic_format_quote:before {
+  content: ""; }
+
+.lo_ic_chart:before {
+  content: ""; }
+
+.lo_ic_drive_file_1:before {
+  content: ""; }
+
+.lo_ic_insert_photo:before {
+  content: ""; }
+
+.lo_ic_video_item:before {
+  content: ""; }
+
+.lo_ic_position_wallpaper:before {
+  content: ""; }
+
+.lo_ic_wallpaper:before {
+  content: ""; }
+
+.lo_ic_video_fullscreen:before {
+  content: ""; }
+
+.lo_ic_video_windowed:before {
+  content: ""; }
+
+.lo_ic_download:before {
+  content: ""; }
+
+.lo_ic_upload:before {
+  content: ""; }
+
+.lo_ic_tune:before {
+  content: ""; }
+
+.lo_ic_credit_card:before {
+  content: ""; }
+
+.lo_ic_star_half:before {
+  content: ""; }
+
+.lo_ic_place:before {
+  content: ""; }
+
+.lo_ic_link_adress:before {
+  content: ""; }

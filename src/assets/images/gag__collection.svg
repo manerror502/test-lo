@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 188 100">
+    <defs>
+        <style>
+            .flash_black_16-3{fill-opacity:0.16;}.flash_black_54{fill-opacity:0.54;}.a{fill:none;}
+        </style>
+    </defs>
+    <title>
+        gag__collection
+    </title>
+    <rect width="188" height="100" class="flash_black_16-3"/>
+    <path d="M94,65.2l17.827,10.76L107.1,55.683l15.75-13.644-20.74-1.76L94,21.154,85.894,40.279l-20.74,1.76L80.9,55.683,76.173,75.962Z" class="flash_black_54"/>
+    <path d="M59.385,15.385h69.231V84.615H59.385Z" class="a"/>
+</svg>

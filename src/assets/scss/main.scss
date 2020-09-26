@@ -1,0 +1,31 @@
+@import "./_fonts";
+@import "./_icons";
+
+body {
+  margin: 0;
+  padding: 0;
+  font-weight: 400;
+  background: #f0f0f0;
+  overflow: visible;
+  font-size: 14px;
+  -webkit-font-smoothing: subpixel-antialiased;
+  -moz-osx-font-smoothing: auto;
+  text-rendering: optimizeLegibility;
+  font-family: "LO Pro Font", Arial, sans-serif;
+}
+
+*,
+::after,
+::before {
+  box-sizing: border-box;
+}
+
+.logo {
+  height: 25px;
+  width: 133px;
+  background: url(assets/images/logo.svg) no-repeat;
+  background-size: contain;
+}
+.logo.logo_short {
+  background: url(assets/images/logo-short-dark.svg) no-repeat;
+}

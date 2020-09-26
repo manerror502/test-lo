@@ -1,0 +1,47 @@
+@font-face {
+  font-family: "LO Pro Font";
+  src: url("assets/fonts/LO Pro Font/LOProFont-Light.eot");
+  src: url("assets/fonts/LO Pro Font/LOProFont-Light.eot?#iefix")
+      format("embedded-opentype"),
+    url("assets/fonts/LO Pro Font/LOProFont-Light.woff2") format("woff2"),
+    url("assets/fonts/LO Pro Font/LOProFont-Light.woff") format("woff"),
+    url("assets/fonts/LO Pro Font/LOProFont-Light.ttf") format("truetype");
+  font-weight: 300;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "LO Pro Font";
+  src: url("assets/fonts/LO Pro Font/LOProFont-Bold.eot");
+  src: url("assets/fonts/LO Pro Font/LOProFont-Bold.eot?#iefix")
+      format("embedded-opentype"),
+    url("assets/fonts/LO Pro Font/LOProFont-Bold.woff2") format("woff2"),
+    url("assets/fonts/LO Pro Font/LOProFont-Bold.woff") format("woff"),
+    url("assets/fonts/LO Pro Font/LOProFont-Bold.ttf") format("truetype");
+  font-weight: bold;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "LO Pro Font";
+  src: url("assets/fonts/LO Pro Font/LOProFont-Regular.eot");
+  src: url("assets/fonts/LO Pro Font/LOProFont-Regular.eot?#iefix")
+      format("embedded-opentype"),
+    url("assets/fonts/LO Pro Font/LOProFont-Regular.woff2") format("woff2"),
+    url("assets/fonts/LO Pro Font/LOProFont-Regular.woff") format("woff"),
+    url("assets/fonts/LO Pro Font/LOProFont-Regular.ttf") format("truetype");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "LO Pro Font";
+  src: url("assets/fonts/LO Pro Font/LOProFont-Medium.eot");
+  src: url("assets/fonts/LO Pro Font/LOProFont-Medium.eot?#iefix")
+      format("embedded-opentype"),
+    url("assets/fonts/LO Pro Font/LOProFont-Medium.woff2") format("woff2"),
+    url("assets/fonts/LO Pro Font/LOProFont-Medium.woff") format("woff"),
+    url("assets/fonts/LO Pro Font/LOProFont-Medium.ttf") format("truetype");
+  font-weight: 500;
+  font-style: normal;
+}

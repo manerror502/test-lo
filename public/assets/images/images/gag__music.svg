@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 30 30">
+    <defs>
+        <style>
+            .flash_black_16-4{fill-opacity:0.16;}.flash_black_54-6{fill-opacity:0.54;}
+        </style>
+    </defs>
+    <title>
+        gag__music
+    </title>
+    <rect width="30" height="30" class="flash_black_16-4"/>
+    <path d="M15,8.667v7.424a2.809,2.809,0,1,0,1.407,2.428V11.481h2.815V8.667Z" class="flash_black_54-6"/>
+</svg>
